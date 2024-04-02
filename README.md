@@ -10,7 +10,7 @@ Currently building:
 - ████ – A Markdown-like language designed for managing advanced documents.
 - ███ – A new ecosystem of novel, extremely fast and developer-friendly web libraries.
 
-I am experienced building libraries related to:
+I create systems and tools related to:
 - Low-level/byte-level JavaScript, performance optimizations
 - Programming languages, parsers, serializers
 - Web standards (HTML, CSS, ECMAScript, TypeScript, HTTP etc.)
