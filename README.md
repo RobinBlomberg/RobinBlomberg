@@ -14,7 +14,5 @@ I create systems and tools related to:
 - Low-level/byte-level JavaScript, performance optimizations
 - Programming languages, parsers, serializers
 - Web standards (HTML, CSS, ECMAScript, TypeScript, HTTP etc.)
-- Web frameworks (e.g. React, Vue.js)
-- Node.js
-- Databases (especially SQL)
+- Runtimes, databases and frameworks (e.g. Node.js, SQL, React, Vue.js)
 - Design, accessibility and WCAG
