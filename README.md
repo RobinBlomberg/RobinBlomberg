@@ -1,4 +1,4 @@
-## Hello. 🟣
+## 🟣 Hello.
 
 Full-stack software engineer, designer and TS/JS magician.
 
