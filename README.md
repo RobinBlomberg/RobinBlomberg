@@ -1,4 +1,4 @@
-## Hello.
+## Hello. 👋
 
 I am Robin. I'm a full-stack software engineer, UI/UX designer and TypeScript/JavaScript magician.
 
