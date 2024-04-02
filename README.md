@@ -1,10 +1,10 @@
 ## Hello. 👋
 
-I am Robin. I'm a full-stack software engineer, UI/UX designer and TypeScript/JavaScript magician.
+Full-stack software engineer, designer and TS/JS magician.
 
 I like to build things that help humans be more productive.
 
-I'm currently building:
+Currently building:
 - [Kysely Codegen](https://github.com/RobinBlomberg/kysely-codegen) – a popular database-to-TypeScript code generator.
 - Sally – an absence reporting system used by various companies.
 - ██████ – A Markdown-like language designed for managing advanced documents.
